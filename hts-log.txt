@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 30 Aug 2020 21:24:57 at https://insmobil.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://insmobil.com/ -O1 "C:\My Web Sites\asdas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:25:38	Warning: 	Link https://insmobil.com/giris-yap not scanned (follow robots meta tag)
+21:26:10	Error: 	"Not Found" (404) at link https://insmobil.com/amung.us/classic.js (from widgets.amung.us/classic.js)
+21:26:31	Warning: 	Moved Permanently for https://insmobil.com/tools/
+21:26:31	Warning: 	File has moved from https://insmobil.com/tools/ to https://insmobil.com/tools
+21:26:31	Warning: 	Retry after error -4 (Connect Error) at link https://resmim.net/f/vwXEZM.png?v=2820191513180400 (from https://insmobil.com/blog/instagram-takipci-ve-begeni-nasil-arttirilir)
+21:26:52	Warning: 	Retry after error -4 (Connect Error) at link https://resmim.net/f/vwXEZM.png?v=2820191513180400 (from https://insmobil.com/blog/instagram-takipci-ve-begeni-nasil-arttirilir)
+21:27:13	Error: 	"Connect Error" (-4) after 2 retries at link https://resmim.net/f/vwXEZM.png?v=2820191513180400 (from https://insmobil.com/blog/instagram-takipci-ve-begeni-nasil-arttirilir)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 16 seconds : 90 links scanned, 84 files written (2956212 bytes overall) [2982009 bytes received at 21926 bytes/sec], 531061 bytes transferred using HTTP compression in 6 files, ratio 95%, 4.0 requests per connection
+(2 errors, 5 warnings, 0 messages)

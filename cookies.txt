@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+insmobil.com	TRUE	/	FALSE	1999999999	0cc0cbceea16eaa6b13bda5a33528c3a	e135a06fc87e23d8cca79c4415347b34
+.hizliresim.com	TRUE	/	FALSE	1999999999	__cfduid	df06b37b7c5c4ad2c7caa5ad31f6129581598811966
+i.hizliresim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tynt.com	TRUE	/	FALSE	1999999999	__cfduid	dcdffe57ecafcbf9efbcb55209e7310471598811972
+cdn.tynt.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
